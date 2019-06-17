@@ -20,7 +20,7 @@ This is a `function()`
 ---
 [Google](https://www.google.co.jp/)
 
-[Pika](https://www.google.com)
+[Pika2](https://www.google.com)
 
 
 ```ruby:qiita.rd```  
